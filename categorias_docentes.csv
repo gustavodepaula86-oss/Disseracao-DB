@@ -1,0 +1,11 @@
+sigla,tipo,descricao,base_legal
+A,Efetivo,"Concursado, titular de cargo",
+P,"Estável","Estável a partir da Constituição de 1988",CF/1988
+F,"Estável","Professores que tinham aulas em 02/06/2007","Lei Complementar 1.010/2007"
+L,"Temporário","Assumiu aulas após 02/06/2007 e antes de 17/07/2009","Lei Complementar 1.093/2009"
+O,"Temporário","Candidato à admissão após 17/07/2009, atua durante um ano letivo","Lei Complementar 1.093/2009"
+S,Eventual,"Vinculado como eventual em 02/06/2007","Lei Complementar 1.010/2007"
+I,Eventual,"Vínculo após 02/06/2007 e antes de 17/07/2009","Lei Complementar 1.093/2009"
+V,Eventual,"Candidato à admissão após 17/07/2009, atua em substituições","Lei Complementar 1.093/2009"
+PAA,Contratado,"Docente contratado para atuar no Programa Apoio à Aprendizagem",
+R,Readaptado,"Docente readaptado para cumprir outras funções dentro da escola",

@@ -1,0 +1,17 @@
+disciplina,classificacao,primeiro_ano,segundo_ano,terceiro_ano,total_aulas
+"Língua Portuguesa","Formação Geral Básica",4,3,3,10
+"Língua Estrangeira Inglês","Formação Geral Básica",2,0,0,2
+Arte,"Formação Geral Básica",2,0,0,2
+"Educação Física","Formação Geral Básica",2,1,2,5
+Geografia,"Formação Geral Básica",2,2,2,6
+"História","Formação Geral Básica",2,2,2,6
+"Matemática","Formação Geral Básica",4,3,3,10
+Sociologia,"Formação Geral Básica",0,2,0,2
+Filosofia,"Formação Geral Básica",2,0,0,2
+"Projeto de Vida","Itinerário Formativo",2,2,2,6
+"Aceleração para o Vestibular","Itinerário Formativo",0,0,3,3
+"Oratória","Itinerário Formativo",2,2,0,4
+"Arte e Mídias Digitais","Itinerário Formativo",2,2,0,4
+"Liderança","Itinerário Formativo",2,2,0,4
+"Geopolítica","Itinerário Formativo",0,2,2,4
+"Filosofia e Sociedade Moderna","Itinerário Formativo",0,2,2,4

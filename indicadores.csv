@@ -1,0 +1,10 @@
+esfera,indicador,valor,unidade,ano,fonte
+Brasil,"Taxa de escolarização 6 a 14 anos",99.4,%,2022,"IBGE (2023)"
+Brasil,"Docentes no Ensino Fundamental e Médio",1890177.0,pessoas,2021,"IBGE (2023)"
+Brasil,"Estabelecimentos de Ensino Fundamental e Médio",152752.0,unidades,2021,"IBGE (2023)"
+"São Paulo","Docentes no Ensino Fundamental e Médio",398401.0,pessoas,2021,"IBGE (2023)"
+"São Paulo","Estabelecimentos de Ensino Fundamental e Médio",21686.0,unidades,2021,"IBGE (2023)"
+"Araçatuba","Docentes no Ensino Fundamental e Médio",1885.0,pessoas,2021,"IBGE (2023)"
+"Araçatuba","Estabelecimentos de Ensino Fundamental e Médio",117.0,unidades,2021,"IBGE (2023)"
+"Araçatuba","Escolas de Ensino Médio Regular",8.0,unidades,2024,"IBGE (2023)"
+"Araçatuba","Escolas de Ensino Médio Integral",28.0,unidades,2024,"IBGE (2023)"
