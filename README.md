@@ -64,3 +64,8 @@ Exportados para uso no Looker Studio / Power BI:
 **Gustavo Aparecido de Paula**
 Professor de Sociologia em transição para Análise de Dados
 [GitHub](https://github.com/gustavodepaula86-oss)
+
+## 📊 Dashboard Interativo
+
+Visualização dos dados no Looker Studio:
+🔗 https://datastudio.google.com/reporting/30bc3b9d-bc56-47f5-8a05-4d36be869a99
